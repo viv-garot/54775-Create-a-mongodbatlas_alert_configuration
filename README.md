@@ -19,7 +19,7 @@ Use mongodb's provider `mongodbatlas_alert_configuration` resource
 ### Clone the repo
 
 ```
-git clone 54775-Create-a-mongodbatlas_alert_configuration
+git clone https://github.com/viv-garot/54775-Create-a-mongodbatlas_alert_configuration
 ```
 
 ### Change directory
